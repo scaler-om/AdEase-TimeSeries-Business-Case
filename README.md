@@ -11,3 +11,6 @@
 - Time series comprises of different algorithms and pre-processing techniques that can significantly improve forecasting.
 - This exercise hones the participant's skills in dealing with missing values,modification in data, feature engineering, and model traning and forecasting.
 - Additionally, learners gain hands-on experience in tackling real-world problems, transforming raw data into actionable insights that can guide business strategies.
+
+## Note
+The dataset, train_1.csv, has been zipped into 5 parts of max 25MB. Just unzip the first file, train_1.zip.001, to get the train_1.csv file.
